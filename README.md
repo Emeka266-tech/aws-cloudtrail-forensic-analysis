@@ -41,3 +41,4 @@ The full investigation report is available in this repository as a PDF.
 * Incident Response
 * Log Analysis
 * AWS Security Fundamentals
+<h2>Full forensic analysis report is available in report.pdf.</h2>
